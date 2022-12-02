@@ -1,6 +1,8 @@
 # knowledge-C-
 Criei esse repositório para meus conhecimentos de C#
 
+(Orientação a objetos)
+
 Na aula de introdução aprendi:
 Preparar o ambiante;
 Toda aplicação .NET é escrita em uma linguagem compilada para o código intermediário MSIL (Microsoft intermediate language);
