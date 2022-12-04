@@ -1,7 +1,7 @@
 # knowledge-C-
 Criei esse repositório para meus conhecimentos de C#
 
-(Orientação a objetos)
+(Orientação a objetos.)
 
 Na aula de introdução aprendi:
 Preparar o ambiante;
