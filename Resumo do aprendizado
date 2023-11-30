@@ -17,7 +17,7 @@ Aula-2:
 Para manipular os valores dos campos de um objeto, nós indicamos o objeto através do operador ponto (.) e acessamos o campo para inserir um valor usando o operador de igualdade (=);
 Valores padrão para campos de uma classe são definidos de maneira automática, o que permite declarar o campo sem a necessidade de inserir um valor;
 Atribuímos uma referência a uma variável fazendo ela apontar para um espaço na memória que contém um objeto;
-Os tipos por referência só apontam para um objeto criado na memória do computador.
+Os tipos por referência só apontam para um objeto criado na memória do computador;
 
 Aula-3:
 
